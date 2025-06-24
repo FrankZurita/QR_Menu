@@ -1,0 +1,46 @@
+body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #08368ba2; /* Café oscuro */
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .logo {
+            font-size: 2em;
+            font-weight: bold;
+        }
+        .menu-section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #8B4513;
+        }
+        .menu-item {
+            margin-bottom: 15px;
+            border-bottom: 1px dashed #ddd;
+            padding-bottom: 10px;
+        }
+        .item-name {
+            font-weight: bold;
+        }
+        .item-price {
+            float: right;
+            color: #8B4513;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #08368ba2;
+            color: white;
+        }
