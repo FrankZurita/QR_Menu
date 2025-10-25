@@ -19,7 +19,7 @@ Con **QR Menu**, los clientes pueden ver el menú desde su celular, sin contacto
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/FranciscoZuritaR/qr_menu.git
+git clone https://github.com/FranZurita/qr_menu.git
 Abre el archivo index.html en tu navegador.
 
 Escanea el QR generado y disfruta del menú digital.
