@@ -26,4 +26,12 @@ Abre el archivo index.html en tu navegador.
 Escanea el QR generado y disfruta del menú digital.
 
 
+⭐ Interacción
+
+Dale estrella al proyecto si te gusta.
+
+Comparte tu versión del menú digital usando este proyecto.
+
+Deja tus ideas o sugerencias directamente en los comentarios del README.
+
 
